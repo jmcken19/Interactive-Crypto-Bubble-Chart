@@ -1,4 +1,4 @@
-# React + Vite
+# Interactive-Crypto-Bubble-Chart
 
 Minimal bubble maps vizualtization to display Cryptocurretncy market data.
 
